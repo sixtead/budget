@@ -1,6 +1,6 @@
 # Budget
 
-**TODO: Add description**
+Application made throught "Watch us build a bank statement CLI application with Elixir" screencast by CodeSchool
 
 ## Installation
 
